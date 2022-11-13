@@ -1,0 +1,30 @@
+C:\Web Projects\Web API\Compass\Services\bin\Debug\net6.0\Compass.Services.deps.json
+C:\Web Projects\Web API\Compass\Services\bin\Debug\net6.0\Compass.Services.dll
+C:\Web Projects\Web API\Compass\Services\bin\Debug\net6.0\Compass.Services.pdb
+C:\Web Projects\Web API\Compass\Services\bin\Debug\net6.0\Compass.Data.dll
+C:\Web Projects\Web API\Compass\Services\bin\Debug\net6.0\Compass.Data.pdb
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.AssemblyReference.cache
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.AssemblyInfoInputs.cache
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.AssemblyInfo.cs
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.CoreCompileInputs.cache
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.CopyComplete
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.dll
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\refint\Compass.Services.dll
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\Compass.Services.pdb
+C:\Web Projects\Web API\Compass\Services\obj\Debug\net6.0\ref\Compass.Services.dll
+D:\JS\Dashboard\Api\Compass\Services\bin\Debug\net6.0\Compass.Services.deps.json
+D:\JS\Dashboard\Api\Compass\Services\bin\Debug\net6.0\Compass.Services.dll
+D:\JS\Dashboard\Api\Compass\Services\bin\Debug\net6.0\Compass.Services.pdb
+D:\JS\Dashboard\Api\Compass\Services\bin\Debug\net6.0\Compass.Data.dll
+D:\JS\Dashboard\Api\Compass\Services\bin\Debug\net6.0\Compass.Data.pdb
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.AssemblyReference.cache
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.AssemblyInfoInputs.cache
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.AssemblyInfo.cs
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.CoreCompileInputs.cache
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.csproj.CopyComplete
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.dll
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\refint\Compass.Services.dll
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\Compass.Services.pdb
+D:\JS\Dashboard\Api\Compass\Services\obj\Debug\net6.0\ref\Compass.Services.dll
