@@ -16,9 +16,9 @@ pipeline  {
             steps {
                 echo 'Removing images ...'
                  dir('.'){
-                     sh 'docker ps -q --filter "name=dashboard_backend" | grep -q . && docker stop dalladory/dashboard_backend || echo Not Found'
-                     sh 'docker ps -q --filter "name=dashboard_backend" | grep -q . && docker rm dalladory/dashboard_backend || echo Not Found'
-                     sh 'docker ps -q --filter "name=dashboard_backend" | grep -q . && docker rmi dalladory/dashboard_backend || echo Not Found'
+                     sh 'docker ps -q --filter "name=dashboard_backend" | grep -q . && docker stop dashboard_backend || echo Not Found'
+                     sh 'docker ps -q --filter "name=dashboard_backend" | grep -q . && docker rm dashboard_backend || echo Not Found'
+                     sh 'docker ps -q --filter "name=dalladory/dashboard_backend" | grep -q . && docker rmi dalladory/dashboard_backend || echo Not Found'
                 }
             }
         }
